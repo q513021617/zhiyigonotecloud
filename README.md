@@ -7,3 +7,6 @@
 2,支持markdown文本编辑解析和预览</br>
 <a href="https://cdn.zhiyigo.cn/zhiyiblogdestop0.1.0.exe">下载地址: https://cdn.zhiyigo.cn/zhiyiblogdestop0.1.0.exe </a>
 
+# 技术栈
+vue+vuex+axios+electron.js+vuetify
+
